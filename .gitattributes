@@ -1,2 +1,3 @@
+*.dart liguist-detectable=true
 *.cpp linguist-detectable=false
 *.cmake linguist-detectable=false
