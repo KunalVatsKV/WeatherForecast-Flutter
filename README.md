@@ -1,16 +1,33 @@
-# climawhether
 
-A new Flutter project.
+# Weather Forecast
 
-## Getting Started
+A weather app built using flutter and a free weather api.
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## Description
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- A Weather app develeoped using flutter
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Uses a free weather api
+
+- It can provide the weather info of our current location with just one tap.
+
+- It also features a search option which provides thw weather data of the entered location.
+
+
+## Screenshots
+
+### Homescreen
+
+- The arrow on the top left gets the weather for our current location (using geolocator).
+- The icon on the top right takes us to the search screen where we can get the weather info for the entered city 
+
+![App Screenshot](https://github.com/KunalVatsKV/WeatherForecast-Flutter/blob/main/screenshots/homescreen.png?raw=true)
+
+
+### Search screen
+
+- Here, we can enter any city and get it's weather info.
+
+![App Screenshot](https://github.com/KunalVatsKV/WeatherForecast-Flutter/blob/main/screenshots/city.png?raw=true)
+
